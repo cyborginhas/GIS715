@@ -3,5 +3,7 @@
 ## Assignments
 
 **Tableau**
--[2016 US general election results]
--[2020 US crop results]
+
+- [2016 US general election results](https://cyborginhas.github.io/GIS715/tableau/myStory.html)
+
+- [2020 US crop results]
