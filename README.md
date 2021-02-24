@@ -1,8 +1,8 @@
 # Welcome to my GIS715 Github Repository & [Github page](https://cyborginhas.github.io/GIS715/)
 
-## Assignments
+# Assignments
 
-**Tableau**
+## **Tableau**
 
 ## - [2016 US general election results](https://cyborginhas.github.io/GIS715/tableau/myStory.html)
 
