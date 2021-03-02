@@ -17,7 +17,6 @@ Data was sourced from the MIT Election Data and Science Lab ([2016 Election Resu
 Data sources included USDA APHIS ([Spotted Lanternfly susceptible crop list](https://www.aphis.usda.gov/aphis/resources/pests-diseases/hungry-pests/the-threat/spotted-lanternfly/spotted-lanternfly)) and USDA NASS ([2019 Cropland Data](https://nassgeodata.gmu.edu/CropScape/); [2018 Crop Values Annual Summary released April 2019](https://usda.library.cornell.edu/concern/publications/k35694332?locale=en)).
 
 ## **QGIS**
-
 ## - [Using QGIS layer styling panel to create multiple effects for visualizing spatial data](https://cyborginhas.github.io/GIS715/QGIS/QGIS_IandIIKMdata.html)
 
 ## - [Using the QGIS layer styling panel to visualize Spotted Lanternfly susceptible crop data across the contiguous US](https://cyborginhas.github.io/GIS715/QGIS/QGIS_SLFdata.html)
