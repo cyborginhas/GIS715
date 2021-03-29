@@ -20,3 +20,6 @@ Data sources included USDA APHIS ([Spotted Lanternfly susceptible crop list](htt
 ## - [Using QGIS layer styling panel to create multiple effects for visualizing spatial data](https://cyborginhas.github.io/GIS715/QGIS/QGIS_IandIIKMdata.html)
 
 ## - [Using the QGIS layer styling panel to visualize Spotted Lanternfly susceptible crop data across the contiguous US](https://cyborginhas.github.io/GIS715/QGIS/SLF/QGIS_SLFdata.html) 
+
+##**RawGraphs**
+## - [Examples of Treemap, Bumpchart, and Beeswarm diagrams created with RawGraphs.io](https://cyborginhas.github.io/GIS715/raw graphs/rawgraphs_w.html)
