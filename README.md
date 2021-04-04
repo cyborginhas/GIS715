@@ -24,5 +24,5 @@ Data sources included USDA APHIS ([Spotted Lanternfly susceptible crop list](htt
 ## **RawGraphs**
 ## - [Examples of Treemap, Bumpchart, and Beeswarm diagrams created with RawGraphs.io](https://cyborginhas.github.io/GIS715/raw_graphs/rawgraphs_w.html)
 
-## **BlenderI and II**
+## **Blender I and II**
 ## - [A 3D Simple Model created with Blender; Displaying and Animating a DEM model and viewsheds with Blender and BlenderGIS & SketchFab add-ons](https://cyborginhas.github.io/GIS715/blender/blenderIandII.html)
