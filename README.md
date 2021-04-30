@@ -26,3 +26,6 @@ Data sources included USDA APHIS ([Spotted Lanternfly susceptible crop list](htt
 
 ## **Blender I and II**
 ## - [A 3D Simple Model created with Blender; Displaying and Animating a DEM model and viewsheds with Blender and BlenderGIS & SketchFab add-ons](https://cyborginhas.github.io/GIS715/blender/blenderIandII.html)
+
+## **Kepler Lab**
+## - [Raleigh, NC Crime map and Tree-of-Heaven reporting in contiguous US map produced using Kepler](https://cyborginhas.github.io/GIS715/keplerlab/kepler.html)
